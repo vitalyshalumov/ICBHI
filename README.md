@@ -20,5 +20,5 @@ The output layer will has 6 nodes (num_labels) which matches the number of possi
 
 
 # Notes
-Missing data augmantation to equalize the data between classes.
+Missing data augmentation to equalize the data between classes.
 
