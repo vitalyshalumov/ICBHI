@@ -16,3 +16,9 @@ A small Dropout value of 20% is used on the convolutional layers.
 Each convolutional layer has an associated pooling layer of MaxPooling2D type with the final convolutional layer having a GlobalAveragePooling2D type. 
 
 The output layer will has 6 nodes (num_labels) which matches the number of possible classifications.
+
+
+
+# Notes
+Missing data augmantation to equalize the data between classes.
+
